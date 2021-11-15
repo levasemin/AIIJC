@@ -1,5 +1,3 @@
-# nlp-witnesses
-
 Запускаете markers.py с файлом april_data.csv, он создает файл stats_all.csv
 
 Запускаете markers.py с файлом train_v4.csv, он создает файл stats_all_train.csv
